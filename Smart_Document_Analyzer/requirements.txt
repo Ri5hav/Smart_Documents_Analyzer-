@@ -1,6 +1,0 @@
-flask
-transformers
-spacy
-tesseract
-opencv-python
-easyocr

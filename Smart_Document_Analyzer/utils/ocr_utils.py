@@ -1,1 +1,0 @@
-# OCR utility functions using EasyOCR or Tesseract

@@ -17,7 +17,7 @@ Smart Document Analyzer is a Flask-based AI application that extracts, analyzes,
 
 ## 🛠️ Tech Stack
 - Python 3
-- Flask (Web framework)
+- Flask(Web framework)
 - spaCy, HuggingFace Transformers (for NLP)
 - OpenCV, EasyOCR or pytesseract (for Vision)
 - HTML/CSS for frontend
